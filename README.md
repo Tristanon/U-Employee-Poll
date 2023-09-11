@@ -21,3 +21,9 @@ npm install && npm start
 ```shell
 npm test
 ```
+
+## Technologies
+- Front-end - HTML, CSS , Bootstrap
+- Fullstack - React, Redux
+- Routing - React Router
+- Testing - Jest and React Testing Library
