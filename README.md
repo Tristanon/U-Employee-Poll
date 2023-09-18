@@ -17,7 +17,11 @@
 - User can see the leaderboard where shows how many questions and answers each user has made and ranking of the most interactive user.
   
 # Installation
-
+1. Clone this repository on your local machin
+```shell
+$  git clone https://github.com/Tristanon/U-Employee-Poll.git
+$  cd U-Employee-Poll
+```
 ```shell
 npm install && npm start
 ```
