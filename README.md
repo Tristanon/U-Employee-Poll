@@ -26,7 +26,13 @@ $  cd U-Employee-Poll
 ```shell
 npm install && npm start
 ```
+or
 
+yarn
+```
+yarn install
+yarn start
+```
 ## Run Tests
 
 ```shell
