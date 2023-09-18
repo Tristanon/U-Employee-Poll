@@ -23,6 +23,7 @@ $  git clone https://github.com/Tristanon/U-Employee-Poll.git
 $  cd U-Employee-Poll
 ```
 2. Install npm and run locally.
+
 npm
 ```shell
 npm install && npm start
