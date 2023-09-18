@@ -33,6 +33,9 @@ npm install && npm start
 npm test
 ```
 
+## Authors
+* [Tristanon](https://github.com/Tristanon)
+
 ## Technologies
 - Front-end - HTML, CSS , Bootstrap
 - Fullstack - React, Redux
